@@ -1,1 +1,2 @@
 Test smart commit commands
+GI1-1 #comment saved
